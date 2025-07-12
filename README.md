@@ -27,10 +27,10 @@ Application in Aircraft: By applying a coating of quantum dots to an aircraft’
 
 The key technologies involved in the quantum dot coating solution are:
 1. Quantum Dot Technology: Nanoscale particles that manipulate light and electromagnetic waves for stealth and radar absorption.
-2. Core-Shell Structures: Quantum dots encapsulated in stable shells(e.g., Zinc Sulfide) to enhance durability and protect from environmental degradation.
+2. Core-Shell Structures: Quantum dots encapsulated in stable shells (e.g., Zinc Sulfide) to enhance durability and protect from environmental degradation.
 3. Graphene and Carbon Nanotubes (CNTs): Advanced nanomaterials used for thermal management, mechanical strength, and lightweight reinforcement.
 4. Electromagnetic Interference (EMI) Shielding: Gold/Silver nanoparticles used to block electromagnetic interference, enhancing stealth capabilities.
-5. Surface Modification Techniques: Coating methods like atomic layer deposition (ALD) ensure uniform, stable coatings on aircraft surfaces.These technologies work together to improve stealth, thermal management, mechanical strength, and aerodynamics.
+5. Surface Modification Techniques: Coating methods like atomic layer deposition (ALD) ensure uniform, stable coatings on aircraft surfaces. These technologies work together to improve stealth, thermal management, mechanical strength, and aerodynamics.
 
 ![Img1](https://github.com/SakshiBiyani02/Quantum-dot-coating-for-adaptive-surface-control/blob/main/Screenshot%202025-07-12%20134829.png?raw=true)
 
